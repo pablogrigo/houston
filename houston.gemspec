@@ -4,9 +4,9 @@ require "houston"
 
 Gem::Specification.new do |s|
   s.name        = "houston"
-  s.authors     = ["Mattt Thompson"]
-  s.email       = "m@mattt.me"
-  s.homepage    = "http://github.com/mattt/houston"
+  s.authors     = ["Mattt Thompson", "Pablo Grigolatto"]
+  s.email       = ["m@mattt.me", "pablogrigo@gmail.com"]
+  s.homepage    = "http://github.com/pablogrigo/houston"
   s.version     = Houston::VERSION
   s.platform    = Gem::Platform::RUBY
   s.summary     = "Send Apple Push Notifications"
